@@ -1,0 +1,5 @@
+1. Create a repository
+2. Create a branch
+3. Clone branch
+4. Rename current default
+5. set default to branch from step 2
