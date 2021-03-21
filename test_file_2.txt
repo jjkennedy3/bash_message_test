@@ -5,3 +5,5 @@ updated branch name
 final change to test workaround
 
 last test of workaround did not work, trying again
+
+checking the hooks after a remove and re-clone
